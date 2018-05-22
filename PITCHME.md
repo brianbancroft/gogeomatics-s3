@@ -1,6 +1,6 @@
 ---?image=assets/image/pan-xiaozhen.jpg
 
-# Uploading Your Website
+### Uploading Your Website
 
 ### Using S3 to web-host for pennies on the dollar
 
@@ -22,4 +22,19 @@ Brian Bancroft (@brian_bancroft)
 - Use Google Analytics |
 - HTTPS? |
 
+
+<br>
+
+@fa[twitter gp-contact](@gitpitch)
+
+@fa[github gp-contact](gitpitch)
+
+@fa[medium gp-contact](@gitpitch)
+
+---?image=assets/image/gitpitch-audience.jpg
+
+@title[Download this Template!]
+
+### Get your presentation started!
+### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/rain)
 
